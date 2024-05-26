@@ -24,6 +24,7 @@
    - Example: `hypeDocument.snapshotProps(hypeDocument.getElementById('myElement'));`
    - Example: `hypeDocument.snapshotProps('.myElements');`
    - Example: `hypeDocument.snapshotProps();` (Snapshots all elements with `data-snapshot-props` in the current scene)
+   - Example: `hypeDocument.snapshotProps(hypeDocument.getElementById('myElement'), { top: 100, left: 200 })`;
 
 4. **Restore Properties with Optional Overrides:**
    - Use `hypeDocument.restoreProps(selectorOrElement, options)` to restore a specific element's properties or all elements matching the selector with optional overrides.
