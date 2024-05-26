@@ -1,5 +1,5 @@
 /*!
- * Hype Snapshot Props Extension
+ * Hype Snapshot Props Extension v1.0.1
  * Copyright (2024) Max Ziebell, (https://maxziebell.de). MIT-license
  */
 
