@@ -3,6 +3,11 @@
  * Copyright (2024) Max Ziebell, (https://maxziebell.de). MIT-license
  */
 
+/*
+ * Version-History
+ * 1.0.0 Released under MIT
+*/
+
 // Ensure the extension isn't redefined
 if ("HypeSnapshotProps" in window === false) {
 	window['HypeSnapshotProps'] = (function () {
