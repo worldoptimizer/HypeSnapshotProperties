@@ -16,7 +16,7 @@ if ("HypeSnapshotProps" in window === false) {
         // Define default settings for the extension
         var _default = {
             props: 'top,left',
-            duration: 1,
+            duration: 0.5,
             easing: 'easeinout'
         };
 
